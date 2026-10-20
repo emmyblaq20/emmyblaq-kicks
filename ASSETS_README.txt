@@ -1,0 +1,1 @@
+Add your own licensed image assets to this folder and reference them as `/your-image.jpg` in the React components. Current shoe photos and web fonts use external Unsplash and Google Fonts URLs, so they require internet access.
